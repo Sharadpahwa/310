@@ -1,2 +1,6 @@
 Sharad pahwa
+<<<<<<< HEAD
  he is best in the world
+=======
+kida theek hai na tu
+>>>>>>> 85be422578ff6490238d18d84989bc8aa1c534cb
